@@ -1,0 +1,14 @@
+D:\DiseñoWebII\MVCSistema.Models\bin\Debug\net8.0\MVCSistema.Models.deps.json
+D:\DiseñoWebII\MVCSistema.Models\bin\Debug\net8.0\MVCSistema.Models.runtimeconfig.json
+D:\DiseñoWebII\MVCSistema.Models\bin\Debug\net8.0\MVCSistema.Models.dll
+D:\DiseñoWebII\MVCSistema.Models\bin\Debug\net8.0\MVCSistema.Models.pdb
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.csproj.AssemblyReference.cache
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.AssemblyInfoInputs.cache
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.AssemblyInfo.cs
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.csproj.CoreCompileInputs.cache
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.dll
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\refint\MVCSistema.Models.dll
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.pdb
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\MVCSistema.Models.genruntimeconfig.cache
+D:\DiseñoWebII\MVCSistema.Models\obj\Debug\net8.0\ref\MVCSistema.Models.dll

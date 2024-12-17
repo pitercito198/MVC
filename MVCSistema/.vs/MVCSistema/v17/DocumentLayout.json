@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dise\u00F1oWebII\\MVCSistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDE828-E4EE-4815-AF87-46A69B59D5D5}|..\\MVCSistema.AccesoDatos\\MVCSistema.AccesoDatos.csproj|d:\\dise\u00F1owebii\\mvcsistema.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB131D8B-D4E0-4115-9423-8BCCC9A92ABC}|..\\MVCSistema.Utilidades\\MVCSistema.Utilidades.csproj|d:\\dise\u00F1owebii\\mvcsistema.utilidades\\mvcsistema.utilidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 97,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dise\u00F1oWebII\\MVCSistema.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MVCSistema.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dise\u00F1oWebII\\MVCSistema.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\MVCSistema.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:54:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVCSistema.Utilidades.csproj",
+              "DocumentMoniker": "D:\\Dise\u00F1oWebII\\MVCSistema.Utilidades\\MVCSistema.Utilidades.csproj",
+              "RelativeDocumentMoniker": "..\\MVCSistema.Utilidades\\MVCSistema.Utilidades.csproj",
+              "ToolTip": "D:\\Dise\u00F1oWebII\\MVCSistema.Utilidades\\MVCSistema.Utilidades.csproj",
+              "RelativeToolTip": "..\\MVCSistema.Utilidades\\MVCSistema.Utilidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T23:22:10.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
